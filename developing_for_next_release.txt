@@ -1,1 +1,3 @@
-This will not be moved to UAT drop 1. This is for drop2
+This will not be moved to UAT drop 1. This is for drop2.
+
+This version not in UAT Release 1
